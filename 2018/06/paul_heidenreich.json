@@ -1,5 +1,5 @@
 {
-  "lists": [
+  "applications": [
     {
       "applications": [
         {
@@ -216,6 +216,12 @@
           "name": "gnuplot",
           "versions": [
             "5.2.4"
+          ]
+        },
+        {
+          "name": "gradle",
+          "versions": [
+            "4.8.1"
           ]
         },
         {
@@ -893,6 +899,13 @@
           "fullPath": "/Applications/Google Chrome.app"
         },
         {
+          "name": "Hyper.app",
+          "versions": [
+            "2.0.0"
+          ],
+          "fullPath": "/Applications/Hyper.app"
+        },
+        {
           "name": "Image Capture.app",
           "versions": [
             "7.0"
@@ -1401,6 +1414,5 @@
       "applications": [],
       "source": "/Users/paulheidenreich/Applications"
     }
-  ],
-  "toolVersion": "?"
+  ]
 }
