@@ -1380,6 +1380,13 @@
           "fullPath": "/Applications/blenderplayer.app"
         },
         {
+          "name": "bpmn-studio.app",
+          "versions": [
+            "3.0.0-pre-b205"
+          ],
+          "fullPath": "/Applications/bpmn-studio.app"
+        },
+        {
           "name": "iBooks.app",
           "versions": [
             "1.15"
