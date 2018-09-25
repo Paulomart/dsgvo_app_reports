@@ -1,0 +1,1278 @@
+{
+  "applications": [
+    {
+      "applications": [
+        {
+          "name": "ack",
+          "versions": [
+            "2.22"
+          ]
+        },
+        {
+          "name": "autoconf",
+          "versions": [
+            "2.69"
+          ]
+        },
+        {
+          "name": "c-ares",
+          "versions": [
+            "1.14.0"
+          ]
+        },
+        {
+          "name": "cmake",
+          "versions": [
+            "3.12.1",
+            "3.10.3"
+          ]
+        },
+        {
+          "name": "confuse",
+          "versions": [
+            "3.2.2"
+          ]
+        },
+        {
+          "name": "coreutils",
+          "versions": [
+            "8.30"
+          ]
+        },
+        {
+          "name": "ctags",
+          "versions": [
+            "5.8_1"
+          ]
+        },
+        {
+          "name": "docker",
+          "versions": [
+            "18.01.0"
+          ]
+        },
+        {
+          "name": "docker-compose",
+          "versions": [
+            "1.18.0"
+          ]
+        },
+        {
+          "name": "docker-machine",
+          "versions": [
+            "0.13.0"
+          ]
+        },
+        {
+          "name": "erlang",
+          "versions": [
+            "21.0.7"
+          ]
+        },
+        {
+          "name": "ffmpeg",
+          "versions": [
+            "3.4.2"
+          ]
+        },
+        {
+          "name": "fwup",
+          "versions": [
+            "1.2.5"
+          ]
+        },
+        {
+          "name": "gdbm",
+          "versions": [
+            "1.15",
+            "1.14.1_1"
+          ]
+        },
+        {
+          "name": "gettext",
+          "versions": [
+            "0.19.8.1"
+          ]
+        },
+        {
+          "name": "ghostscript",
+          "versions": [
+            "9.23"
+          ]
+        },
+        {
+          "name": "git",
+          "versions": [
+            "2.16.1",
+            "2.18.0"
+          ]
+        },
+        {
+          "name": "git-flow",
+          "versions": [
+            "0.4.1"
+          ]
+        },
+        {
+          "name": "glib",
+          "versions": [
+            "2.54.3",
+            "2.56.1"
+          ]
+        },
+        {
+          "name": "gmp",
+          "versions": [
+            "6.1.2_2"
+          ]
+        },
+        {
+          "name": "gnutls",
+          "versions": [
+            "3.5.18"
+          ]
+        },
+        {
+          "name": "highlight",
+          "versions": [
+            "3.42"
+          ]
+        },
+        {
+          "name": "htop",
+          "versions": [
+            "2.0.2_2"
+          ]
+        },
+        {
+          "name": "httpie",
+          "versions": [
+            "0.9.9_3"
+          ]
+        },
+        {
+          "name": "hub",
+          "versions": [
+            "2.2.9"
+          ]
+        },
+        {
+          "name": "iperf3",
+          "versions": [
+            "3.5"
+          ]
+        },
+        {
+          "name": "jemalloc",
+          "versions": [
+            "5.0.1"
+          ]
+        },
+        {
+          "name": "jpeg",
+          "versions": [
+            "9c"
+          ]
+        },
+        {
+          "name": "lame",
+          "versions": [
+            "3.100"
+          ]
+        },
+        {
+          "name": "libarchive",
+          "versions": [
+            "3.3.2"
+          ]
+        },
+        {
+          "name": "libevent",
+          "versions": [
+            "2.1.8"
+          ]
+        },
+        {
+          "name": "libffi",
+          "versions": [
+            "3.2.1"
+          ]
+        },
+        {
+          "name": "libgcrypt",
+          "versions": [
+            "1.8.3"
+          ]
+        },
+        {
+          "name": "libgpg-error",
+          "versions": [
+            "1.31"
+          ]
+        },
+        {
+          "name": "libidn2",
+          "versions": [
+            "2.0.4"
+          ]
+        },
+        {
+          "name": "libmaxminddb",
+          "versions": [
+            "1.3.2"
+          ]
+        },
+        {
+          "name": "libpng",
+          "versions": [
+            "1.6.34",
+            "1.6.35"
+          ]
+        },
+        {
+          "name": "libsodium",
+          "versions": [
+            "1.0.16"
+          ]
+        },
+        {
+          "name": "libssh2",
+          "versions": [
+            "1.8.0"
+          ]
+        },
+        {
+          "name": "libtasn1",
+          "versions": [
+            "4.13"
+          ]
+        },
+        {
+          "name": "libtermkey",
+          "versions": [
+            "0.20"
+          ]
+        },
+        {
+          "name": "libtiff",
+          "versions": [
+            "4.0.9_4"
+          ]
+        },
+        {
+          "name": "libunistring",
+          "versions": [
+            "0.9.8",
+            "0.9.10"
+          ]
+        },
+        {
+          "name": "libuv",
+          "versions": [
+            "1.19.2",
+            "1.19.1"
+          ]
+        },
+        {
+          "name": "libvterm",
+          "versions": [
+            "681"
+          ]
+        },
+        {
+          "name": "libyaml",
+          "versions": [
+            "0.1.7"
+          ]
+        },
+        {
+          "name": "little-cms2",
+          "versions": [
+            "2.9"
+          ]
+        },
+        {
+          "name": "lua",
+          "versions": [
+            "5.3.4_2",
+            "5.3.5_1"
+          ]
+        },
+        {
+          "name": "lua@5.1",
+          "versions": [
+            "5.1.5_7",
+            "5.1.5_8",
+            "5.1.5_5"
+          ]
+        },
+        {
+          "name": "luajit",
+          "versions": [
+            "2.0.5"
+          ]
+        },
+        {
+          "name": "luarocks",
+          "versions": [
+            "3.0.1"
+          ]
+        },
+        {
+          "name": "lzo",
+          "versions": [
+            "2.10"
+          ]
+        },
+        {
+          "name": "markdown",
+          "versions": [
+            "1.0.1"
+          ]
+        },
+        {
+          "name": "midnight-commander",
+          "versions": [
+            "4.8.20"
+          ]
+        },
+        {
+          "name": "msgpack",
+          "versions": [
+            "2.1.5"
+          ]
+        },
+        {
+          "name": "ncurses",
+          "versions": [
+            "6.1"
+          ]
+        },
+        {
+          "name": "neovim",
+          "versions": [
+            "HEAD-739fb93_1"
+          ]
+        },
+        {
+          "name": "nettle",
+          "versions": [
+            "3.4"
+          ]
+        },
+        {
+          "name": "openssl",
+          "versions": [
+            "1.0.2o_1",
+            "1.0.2n",
+            "1.0.2p",
+            "1.0.2o_2"
+          ]
+        },
+        {
+          "name": "p11-kit",
+          "versions": [
+            "0.23.12"
+          ]
+        },
+        {
+          "name": "pandoc",
+          "versions": [
+            "2.1.1"
+          ]
+        },
+        {
+          "name": "pcre",
+          "versions": [
+            "8.42",
+            "8.41"
+          ]
+        },
+        {
+          "name": "perl",
+          "versions": [
+            "5.26.1"
+          ]
+        },
+        {
+          "name": "picocom",
+          "versions": [
+            "3.1"
+          ]
+        },
+        {
+          "name": "pkg-config",
+          "versions": [
+            "0.29.2"
+          ]
+        },
+        {
+          "name": "python",
+          "versions": [
+            "3.6.4_4",
+            "3.6.4_2",
+            "2.7.14_2",
+            "3.6.5_1"
+          ]
+        },
+        {
+          "name": "qt",
+          "versions": [
+            "5.11.1"
+          ]
+        },
+        {
+          "name": "ranger",
+          "versions": [
+            "1.9.1"
+          ]
+        },
+        {
+          "name": "readline",
+          "versions": [
+            "7.0.3_1"
+          ]
+        },
+        {
+          "name": "reattach-to-user-namespace",
+          "versions": [
+            "2.6"
+          ]
+        },
+        {
+          "name": "ruby",
+          "versions": [
+            "2.5.0"
+          ]
+        },
+        {
+          "name": "s-lang",
+          "versions": [
+            "2.3.1a"
+          ]
+        },
+        {
+          "name": "sc-im",
+          "versions": [
+            "0.7.0"
+          ]
+        },
+        {
+          "name": "sphinx",
+          "versions": [
+            "2.2.11"
+          ]
+        },
+        {
+          "name": "sqlite",
+          "versions": [
+            "3.22.0",
+            "3.24.0"
+          ]
+        },
+        {
+          "name": "squashfs",
+          "versions": [
+            "4.3_1"
+          ]
+        },
+        {
+          "name": "tmux",
+          "versions": [
+            "2.6"
+          ]
+        },
+        {
+          "name": "tree",
+          "versions": [
+            "1.7.0"
+          ]
+        },
+        {
+          "name": "unibilium",
+          "versions": [
+            "2.0.0",
+            "1.2.1"
+          ]
+        },
+        {
+          "name": "unrar",
+          "versions": [
+            "5.6.5"
+          ]
+        },
+        {
+          "name": "vim",
+          "versions": [
+            "8.0.1400_4"
+          ]
+        },
+        {
+          "name": "wget",
+          "versions": [
+            "1.19.4_1"
+          ]
+        },
+        {
+          "name": "wireshark",
+          "versions": [
+            "2.6.1"
+          ]
+        },
+        {
+          "name": "wxmac",
+          "versions": [
+            "3.0.4_1"
+          ]
+        },
+        {
+          "name": "x264",
+          "versions": [
+            "r2854"
+          ]
+        },
+        {
+          "name": "xvid",
+          "versions": [
+            "1.3.5"
+          ]
+        },
+        {
+          "name": "xz",
+          "versions": [
+            "5.2.4",
+            "5.2.3"
+          ]
+        },
+        {
+          "name": "youtube-dl",
+          "versions": [
+            "2018.02.11"
+          ]
+        },
+        {
+          "name": "z",
+          "versions": [
+            "1.9"
+          ]
+        },
+        {
+          "name": "zsh",
+          "versions": [
+            "5.4.2_3"
+          ]
+        },
+        {
+          "name": "zsh-completions",
+          "versions": [
+            "0.27.0"
+          ]
+        }
+      ],
+      "source": "brew"
+    },
+    {
+      "applications": [
+        {
+          "name": "1Password 7.app",
+          "versions": [
+            "7.1.2"
+          ],
+          "fullPath": "/Applications/1Password 7.app"
+        },
+        {
+          "name": "Alfred 3.app",
+          "versions": [
+            "3.5.1"
+          ],
+          "fullPath": "/Applications/Alfred 3.app"
+        },
+        {
+          "name": "App Store.app",
+          "versions": [
+            "2.4"
+          ],
+          "fullPath": "/Applications/App Store.app"
+        },
+        {
+          "name": "Atom.app",
+          "versions": [
+            "1.25.0"
+          ],
+          "fullPath": "/Applications/Atom.app"
+        },
+        {
+          "name": "Automator.app",
+          "versions": [
+            "2.8"
+          ],
+          "fullPath": "/Applications/Automator.app"
+        },
+        {
+          "name": "Caffeine.app",
+          "versions": [],
+          "fullPath": "/Applications/Caffeine.app"
+        },
+        {
+          "name": "Calculator.app",
+          "versions": [
+            "10.13"
+          ],
+          "fullPath": "/Applications/Calculator.app"
+        },
+        {
+          "name": "Calendar.app",
+          "versions": [
+            "10.0"
+          ],
+          "fullPath": "/Applications/Calendar.app"
+        },
+        {
+          "name": "Chess.app",
+          "versions": [
+            "3.15"
+          ],
+          "fullPath": "/Applications/Chess.app"
+        },
+        {
+          "name": "Chrome DevTools App.app",
+          "versions": [],
+          "fullPath": "/Applications/Chrome DevTools App.app"
+        },
+        {
+          "name": "Contacts.app",
+          "versions": [
+            "11.0"
+          ],
+          "fullPath": "/Applications/Contacts.app"
+        },
+        {
+          "name": "DB Browser for SQLite.app",
+          "versions": [
+            "3.10.1"
+          ],
+          "fullPath": "/Applications/DB Browser for SQLite.app"
+        },
+        {
+          "name": "DVD Player.app",
+          "versions": [
+            "5.8"
+          ],
+          "fullPath": "/Applications/DVD Player.app"
+        },
+        {
+          "name": "Dash.app",
+          "versions": [
+            "4.3.1"
+          ],
+          "fullPath": "/Applications/Dash.app"
+        },
+        {
+          "name": "Dashboard.app",
+          "versions": [
+            "1.8"
+          ],
+          "fullPath": "/Applications/Dashboard.app"
+        },
+        {
+          "name": "Dictionary.app",
+          "versions": [
+            "2.2.2"
+          ],
+          "fullPath": "/Applications/Dictionary.app"
+        },
+        {
+          "name": "Docker.app",
+          "versions": [
+            "18.06.0-ce-mac70"
+          ],
+          "fullPath": "/Applications/Docker.app"
+        },
+        {
+          "name": "FaceTime.app",
+          "versions": [
+            "4.0"
+          ],
+          "fullPath": "/Applications/FaceTime.app"
+        },
+        {
+          "name": "Firefox.app",
+          "versions": [
+            "59.0.2"
+          ],
+          "fullPath": "/Applications/Firefox.app"
+        },
+        {
+          "name": "Font Book.app",
+          "versions": [
+            "8.0"
+          ],
+          "fullPath": "/Applications/Font Book.app"
+        },
+        {
+          "name": "GIMP.app",
+          "versions": [
+            "2.8.22"
+          ],
+          "fullPath": "/Applications/GIMP.app"
+        },
+        {
+          "name": "GIPHY CAPTURE.app",
+          "versions": [
+            "4.1"
+          ],
+          "fullPath": "/Applications/GIPHY CAPTURE.app"
+        },
+        {
+          "name": "GPG Keychain.app",
+          "versions": [
+            "1.4.5"
+          ],
+          "fullPath": "/Applications/GPG Keychain.app"
+        },
+        {
+          "name": "GarageBand.app",
+          "versions": [
+            "10.3.1"
+          ],
+          "fullPath": "/Applications/GarageBand.app"
+        },
+        {
+          "name": "GoToMeeting (8625).app",
+          "versions": [
+            "8.25.0.8625"
+          ],
+          "fullPath": "/Applications/GoToMeeting/GoToMeeting (8625).app"
+        },
+        {
+          "name": "GoToMeeting (9095).app",
+          "versions": [
+            "8.30.1.9095"
+          ],
+          "fullPath": "/Applications/GoToMeeting/GoToMeeting (9095).app"
+        },
+        {
+          "name": "GoToMeeting (9167).app",
+          "versions": [
+            "8.32.0.9167"
+          ],
+          "fullPath": "/Applications/GoToMeeting/GoToMeeting (9167).app"
+        },
+        {
+          "name": "GoToMeeting (9250).app",
+          "versions": [
+            "8.33.0.9250"
+          ],
+          "fullPath": "/Applications/GoToMeeting/GoToMeeting (9250).app"
+        },
+        {
+          "name": "GoToMeeting (9446).app",
+          "versions": [
+            "8.34.0.9446"
+          ],
+          "fullPath": "/Applications/GoToMeeting/GoToMeeting (9446).app"
+        },
+        {
+          "name": "GoToMeeting (9508).app",
+          "versions": [
+            "8.34.1.9508"
+          ],
+          "fullPath": "/Applications/GoToMeeting/GoToMeeting (9508).app"
+        },
+        {
+          "name": "GoToMeeting.app",
+          "versions": [
+            "8.34.1.9508"
+          ],
+          "fullPath": "/Applications/GoToMeeting.app"
+        },
+        {
+          "name": "Google Chrome.app",
+          "versions": [
+            "69.0.3497.100"
+          ],
+          "fullPath": "/Applications/Google Chrome.app"
+        },
+        {
+          "name": "Image Capture.app",
+          "versions": [
+            "7.0"
+          ],
+          "fullPath": "/Applications/Image Capture.app"
+        },
+        {
+          "name": "Keynote.app",
+          "versions": [
+            "8.1"
+          ],
+          "fullPath": "/Applications/Keynote.app"
+        },
+        {
+          "name": "Launchpad.app",
+          "versions": [
+            "1.0"
+          ],
+          "fullPath": "/Applications/Launchpad.app"
+        },
+        {
+          "name": "Mail.app",
+          "versions": [
+            "11.5"
+          ],
+          "fullPath": "/Applications/Mail.app"
+        },
+        {
+          "name": "Maps.app",
+          "versions": [
+            "2.0"
+          ],
+          "fullPath": "/Applications/Maps.app"
+        },
+        {
+          "name": "Messages.app",
+          "versions": [
+            "11.0"
+          ],
+          "fullPath": "/Applications/Messages.app"
+        },
+        {
+          "name": "Microsoft Excel.app",
+          "versions": [
+            "16.17"
+          ],
+          "fullPath": "/Applications/Microsoft Excel.app"
+        },
+        {
+          "name": "Microsoft OneNote.app",
+          "versions": [
+            "16.9"
+          ],
+          "fullPath": "/Applications/Microsoft OneNote.app"
+        },
+        {
+          "name": "Microsoft Outlook.app",
+          "versions": [
+            "16.9"
+          ],
+          "fullPath": "/Applications/Microsoft Outlook.app"
+        },
+        {
+          "name": "Microsoft PowerPoint.app",
+          "versions": [
+            "16.17"
+          ],
+          "fullPath": "/Applications/Microsoft PowerPoint.app"
+        },
+        {
+          "name": "Microsoft Word.app",
+          "versions": [
+            "16.17"
+          ],
+          "fullPath": "/Applications/Microsoft Word.app"
+        },
+        {
+          "name": "Mission Control.app",
+          "versions": [
+            "1.2"
+          ],
+          "fullPath": "/Applications/Mission Control.app"
+        },
+        {
+          "name": "Notes.app",
+          "versions": [
+            "4.5"
+          ],
+          "fullPath": "/Applications/Notes.app"
+        },
+        {
+          "name": "Numbers.app",
+          "versions": [
+            "5.1"
+          ],
+          "fullPath": "/Applications/Numbers.app"
+        },
+        {
+          "name": "Opera.app",
+          "versions": [
+            "52.0"
+          ],
+          "fullPath": "/Applications/Opera.app"
+        },
+        {
+          "name": "Pages.app",
+          "versions": [
+            "7.1"
+          ],
+          "fullPath": "/Applications/Pages.app"
+        },
+        {
+          "name": "Photo Booth.app",
+          "versions": [
+            "9.0"
+          ],
+          "fullPath": "/Applications/Photo Booth.app"
+        },
+        {
+          "name": "Photos.app",
+          "versions": [
+            "3.0"
+          ],
+          "fullPath": "/Applications/Photos.app"
+        },
+        {
+          "name": "Postman.app",
+          "versions": [
+            "6.1.4"
+          ],
+          "fullPath": "/Applications/Postman.app"
+        },
+        {
+          "name": "Preview.app",
+          "versions": [
+            "10.0"
+          ],
+          "fullPath": "/Applications/Preview.app"
+        },
+        {
+          "name": "PyCharm CE.app",
+          "versions": [
+            "2017.3.3"
+          ],
+          "fullPath": "/Applications/PyCharm CE.app"
+        },
+        {
+          "name": "PyCharm.app",
+          "versions": [
+            "2017.3.3"
+          ],
+          "fullPath": "/Applications/PyCharm.app"
+        },
+        {
+          "name": "QuickTime Player.app",
+          "versions": [
+            "10.4"
+          ],
+          "fullPath": "/Applications/QuickTime Player.app"
+        },
+        {
+          "name": "Reminders.app",
+          "versions": [
+            "5.0"
+          ],
+          "fullPath": "/Applications/Reminders.app"
+        },
+        {
+          "name": "Safari.app",
+          "versions": [
+            "12.0"
+          ],
+          "fullPath": "/Applications/Safari.app"
+        },
+        {
+          "name": "Siri.app",
+          "versions": [
+            "1.0"
+          ],
+          "fullPath": "/Applications/Siri.app"
+        },
+        {
+          "name": "Slack.app",
+          "versions": [
+            "3.3.1"
+          ],
+          "fullPath": "/Applications/Slack.app"
+        },
+        {
+          "name": "SpeedCrunch.app",
+          "versions": [
+            "master"
+          ],
+          "fullPath": "/Applications/SpeedCrunch.app"
+        },
+        {
+          "name": "Steam.app",
+          "versions": [],
+          "fullPath": "/Applications/Steam.app"
+        },
+        {
+          "name": "Stickies.app",
+          "versions": [
+            "10.1"
+          ],
+          "fullPath": "/Applications/Stickies.app"
+        },
+        {
+          "name": "System Preferences.app",
+          "versions": [
+            "14.0"
+          ],
+          "fullPath": "/Applications/System Preferences.app"
+        },
+        {
+          "name": "TIDAL.app",
+          "versions": [
+            "2.1.23.475"
+          ],
+          "fullPath": "/Applications/TIDAL.app"
+        },
+        {
+          "name": "BibDesk.app",
+          "versions": [
+            "1.6.14"
+          ],
+          "fullPath": "/Applications/TeX/BibDesk.app"
+        },
+        {
+          "name": "Excalibur.app",
+          "versions": [
+            "4.0.7"
+          ],
+          "fullPath": "/Applications/TeX/Docs and Spell Utilities/Spelling/Excalibur-4.0.7/Excalibur.app"
+        },
+        {
+          "name": "LaTeXiT.app",
+          "versions": [
+            "2.10.1"
+          ],
+          "fullPath": "/Applications/TeX/LaTeXiT.app"
+        },
+        {
+          "name": "TeX Live Utility.app",
+          "versions": [
+            "1.34"
+          ],
+          "fullPath": "/Applications/TeX/TeX Live Utility.app"
+        },
+        {
+          "name": "TeXShop.app",
+          "versions": [
+            "4.01"
+          ],
+          "fullPath": "/Applications/TeX/TeXShop.app"
+        },
+        {
+          "name": "TextEdit.app",
+          "versions": [
+            "1.13"
+          ],
+          "fullPath": "/Applications/TextEdit.app"
+        },
+        {
+          "name": "Time Machine.app",
+          "versions": [
+            "1.3"
+          ],
+          "fullPath": "/Applications/Time Machine.app"
+        },
+        {
+          "name": "Activity Monitor.app",
+          "versions": [
+            "10.13"
+          ],
+          "fullPath": "/Applications/Utilities/Activity Monitor.app"
+        },
+        {
+          "name": "AirPort Utility.app",
+          "versions": [
+            "6.3.8"
+          ],
+          "fullPath": "/Applications/Utilities/AirPort Utility.app"
+        },
+        {
+          "name": "Audio MIDI Setup.app",
+          "versions": [
+            "3.2"
+          ],
+          "fullPath": "/Applications/Utilities/Audio MIDI Setup.app"
+        },
+        {
+          "name": "Bluetooth File Exchange.app",
+          "versions": [
+            "6.0.7"
+          ],
+          "fullPath": "/Applications/Utilities/Bluetooth File Exchange.app"
+        },
+        {
+          "name": "Boot Camp Assistant.app",
+          "versions": [
+            "6.1.0"
+          ],
+          "fullPath": "/Applications/Utilities/Boot Camp Assistant.app"
+        },
+        {
+          "name": "ColorSync Utility.app",
+          "versions": [
+            "4.13.0"
+          ],
+          "fullPath": "/Applications/Utilities/ColorSync Utility.app"
+        },
+        {
+          "name": "Console.app",
+          "versions": [
+            "1.0"
+          ],
+          "fullPath": "/Applications/Utilities/Console.app"
+        },
+        {
+          "name": "Digital Color Meter.app",
+          "versions": [
+            "5.11"
+          ],
+          "fullPath": "/Applications/Utilities/Digital Color Meter.app"
+        },
+        {
+          "name": "Disk Utility.app",
+          "versions": [
+            "17.0.3"
+          ],
+          "fullPath": "/Applications/Utilities/Disk Utility.app"
+        },
+        {
+          "name": "Grab.app",
+          "versions": [
+            "1.10"
+          ],
+          "fullPath": "/Applications/Utilities/Grab.app"
+        },
+        {
+          "name": "Grapher.app",
+          "versions": [
+            "2.6"
+          ],
+          "fullPath": "/Applications/Utilities/Grapher.app"
+        },
+        {
+          "name": "Keychain Access.app",
+          "versions": [
+            "10.0"
+          ],
+          "fullPath": "/Applications/Utilities/Keychain Access.app"
+        },
+        {
+          "name": "Migration Assistant.app",
+          "versions": [
+            "10.13"
+          ],
+          "fullPath": "/Applications/Utilities/Migration Assistant.app"
+        },
+        {
+          "name": "Script Editor.app",
+          "versions": [
+            "2.10"
+          ],
+          "fullPath": "/Applications/Utilities/Script Editor.app"
+        },
+        {
+          "name": "System Information.app",
+          "versions": [
+            "10.12"
+          ],
+          "fullPath": "/Applications/Utilities/System Information.app"
+        },
+        {
+          "name": "Terminal.app",
+          "versions": [
+            "2.8.2"
+          ],
+          "fullPath": "/Applications/Utilities/Terminal.app"
+        },
+        {
+          "name": "VoiceOver Utility.app",
+          "versions": [
+            "8"
+          ],
+          "fullPath": "/Applications/Utilities/VoiceOver Utility.app"
+        },
+        {
+          "name": "VMware Fusion.app",
+          "versions": [
+            "10.1.2"
+          ],
+          "fullPath": "/Applications/VMware Fusion.app"
+        },
+        {
+          "name": "VirtualBox.app",
+          "versions": [
+            "5.2.6"
+          ],
+          "fullPath": "/Applications/VirtualBox.app"
+        },
+        {
+          "name": "Visual Studio Code.app",
+          "versions": [
+            "1.27.2"
+          ],
+          "fullPath": "/Applications/Visual Studio Code.app"
+        },
+        {
+          "name": "Wireshark.app",
+          "versions": [
+            "2.6.1"
+          ],
+          "fullPath": "/Applications/Wireshark.app"
+        },
+        {
+          "name": "Wunderlist.app",
+          "versions": [
+            "3.4.8"
+          ],
+          "fullPath": "/Applications/Wunderlist.app"
+        },
+        {
+          "name": "Xcode.app",
+          "versions": [
+            "9.4.1"
+          ],
+          "fullPath": "/Applications/Xcode.app"
+        },
+        {
+          "name": "bpmn-studio.app",
+          "versions": [
+            "4.4.1"
+          ],
+          "fullPath": "/Applications/bpmn-studio.app"
+        },
+        {
+          "name": "iBooks.app",
+          "versions": [
+            "1.15"
+          ],
+          "fullPath": "/Applications/iBooks.app"
+        },
+        {
+          "name": "iMovie.app",
+          "versions": [
+            "10.1.9"
+          ],
+          "fullPath": "/Applications/iMovie.app"
+        },
+        {
+          "name": "iTerm.app",
+          "versions": [
+            "3.2.1"
+          ],
+          "fullPath": "/Applications/iTerm.app"
+        },
+        {
+          "name": "iTunes.app",
+          "versions": [
+            "12.8"
+          ],
+          "fullPath": "/Applications/iTunes.app"
+        },
+        {
+          "name": "pgAdmin 4.app",
+          "versions": [
+            "3.0.0"
+          ],
+          "fullPath": "/Applications/pgAdmin 4.app"
+        }
+      ],
+      "source": "/Applications"
+    },
+    {
+      "applications": [],
+      "source": "/Users/fhtagn/Applications"
+    }
+  ]
+}
