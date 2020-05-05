@@ -1,0 +1,376 @@
+{
+  "applications": [
+    {
+      "applications": [
+        {
+          "name": "ack",
+          "versions": [
+            "3.0.0"
+          ]
+        },
+        {
+          "name": "coreutils",
+          "versions": [
+            "8.31"
+          ]
+        },
+        {
+          "name": "docker-machine",
+          "versions": [
+            "0.16.2"
+          ]
+        },
+        {
+          "name": "docker-machine-driver-hyperkit",
+          "versions": [
+            "1.0.0"
+          ]
+        },
+        {
+          "name": "gdbm",
+          "versions": [
+            "1.18.1"
+          ]
+        },
+        {
+          "name": "gettext",
+          "versions": [
+            "0.20.1"
+          ]
+        },
+        {
+          "name": "git",
+          "versions": [
+            "2.25.0_1"
+          ]
+        },
+        {
+          "name": "gnu-getopt",
+          "versions": [
+            "2.34"
+          ]
+        },
+        {
+          "name": "hub",
+          "versions": [
+            "2.12.1"
+          ]
+        },
+        {
+          "name": "icu4c",
+          "versions": [
+            "66.1"
+          ]
+        },
+        {
+          "name": "libffi",
+          "versions": [
+            "3.2.1"
+          ]
+        },
+        {
+          "name": "libvterm",
+          "versions": [
+            "726"
+          ]
+        },
+        {
+          "name": "node",
+          "versions": [
+            "14.1.0"
+          ]
+        },
+        {
+          "name": "openssl",
+          "versions": [
+            "1.0.2s"
+          ]
+        },
+        {
+          "name": "openssl@1.1",
+          "versions": [
+            "1.1.1d"
+          ]
+        },
+        {
+          "name": "pcre2",
+          "versions": [
+            "10.34"
+          ]
+        },
+        {
+          "name": "python",
+          "versions": [
+            "3.7.4_1"
+          ]
+        },
+        {
+          "name": "readline",
+          "versions": [
+            "8.0.1"
+          ]
+        },
+        {
+          "name": "rename",
+          "versions": [
+            "1.601"
+          ]
+        },
+        {
+          "name": "ruby",
+          "versions": [
+            "2.6.3"
+          ]
+        },
+        {
+          "name": "sqlite",
+          "versions": [
+            "3.29.0"
+          ]
+        },
+        {
+          "name": "typescript",
+          "versions": [
+            "3.8.3"
+          ]
+        },
+        {
+          "name": "xz",
+          "versions": [
+            "5.2.4"
+          ]
+        }
+      ],
+      "source": "brew"
+    },
+    {
+      "applications": [
+        {
+          "name": "1Password 7.app",
+          "versions": [
+            "7.4.3"
+          ],
+          "fullPath": "/Applications/1Password 7.app"
+        },
+        {
+          "name": "Alfred 4.app",
+          "versions": [
+            "4.0.2"
+          ],
+          "fullPath": "/Applications/Alfred 4.app"
+        },
+        {
+          "name": "BPMN Studio.app",
+          "versions": [
+            "5.13.0"
+          ],
+          "fullPath": "/Applications/BPMN Studio.app"
+        },
+        {
+          "name": "Caffeine.app",
+          "versions": [],
+          "fullPath": "/Applications/Caffeine.app"
+        },
+        {
+          "name": "Chrome DevTools App.app",
+          "versions": [],
+          "fullPath": "/Applications/Chrome DevTools App.app"
+        },
+        {
+          "name": "Citrix Workspace.app",
+          "versions": [
+            "20.02.0"
+          ],
+          "fullPath": "/Applications/Citrix Workspace.app"
+        },
+        {
+          "name": "Docker.app",
+          "versions": [
+            "2.2.0.0"
+          ],
+          "fullPath": "/Applications/Docker.app"
+        },
+        {
+          "name": "Firefox.app",
+          "versions": [
+            "67.0.4"
+          ],
+          "fullPath": "/Applications/Firefox.app"
+        },
+        {
+          "name": "GPG Keychain.app",
+          "versions": [
+            "1.5"
+          ],
+          "fullPath": "/Applications/GPG Keychain.app"
+        },
+        {
+          "name": "GarageBand.app",
+          "versions": [
+            "10.3.4"
+          ],
+          "fullPath": "/Applications/GarageBand.app"
+        },
+        {
+          "name": "Google Chrome.app",
+          "versions": [
+            "81.0.4044.129"
+          ],
+          "fullPath": "/Applications/Google Chrome.app"
+        },
+        {
+          "name": "Keynote.app",
+          "versions": [
+            "10.0"
+          ],
+          "fullPath": "/Applications/Keynote.app"
+        },
+        {
+          "name": "Microsoft Excel.app",
+          "versions": [
+            "16.36"
+          ],
+          "fullPath": "/Applications/Microsoft Excel.app"
+        },
+        {
+          "name": "Microsoft OneNote.app",
+          "versions": [
+            "16.26"
+          ],
+          "fullPath": "/Applications/Microsoft OneNote.app"
+        },
+        {
+          "name": "Microsoft Outlook.app",
+          "versions": [
+            "16.36"
+          ],
+          "fullPath": "/Applications/Microsoft Outlook.app"
+        },
+        {
+          "name": "Microsoft PowerPoint.app",
+          "versions": [
+            "16.26"
+          ],
+          "fullPath": "/Applications/Microsoft PowerPoint.app"
+        },
+        {
+          "name": "Microsoft Word.app",
+          "versions": [
+            "16.36"
+          ],
+          "fullPath": "/Applications/Microsoft Word.app"
+        },
+        {
+          "name": "MySQLWorkbench.app",
+          "versions": [
+            "8.0.16.CE"
+          ],
+          "fullPath": "/Applications/MySQLWorkbench.app"
+        },
+        {
+          "name": "Numbers.app",
+          "versions": [
+            "10.0"
+          ],
+          "fullPath": "/Applications/Numbers.app"
+        },
+        {
+          "name": "OneDrive.app",
+          "versions": [
+            "19.232.1124"
+          ],
+          "fullPath": "/Applications/OneDrive.app"
+        },
+        {
+          "name": "Pages.app",
+          "versions": [
+            "10.0"
+          ],
+          "fullPath": "/Applications/Pages.app"
+        },
+        {
+          "name": "Rider.app",
+          "versions": [
+            "2020.1.0"
+          ],
+          "fullPath": "/Applications/Rider.app"
+        },
+        {
+          "name": "Safari.app",
+          "versions": [
+            "13.1"
+          ],
+          "fullPath": "/Applications/Safari.app"
+        },
+        {
+          "name": "Skype for Business.app",
+          "versions": [
+            "16.28.175"
+          ],
+          "fullPath": "/Applications/Skype for Business.app"
+        },
+        {
+          "name": "Slack.app",
+          "versions": [
+            "4.5.0"
+          ],
+          "fullPath": "/Applications/Slack.app"
+        },
+        {
+          "name": "TogglDesktop.app",
+          "versions": [
+            "7.4.373"
+          ],
+          "fullPath": "/Applications/TogglDesktop.app"
+        },
+        {
+          "name": "VMware Fusion.app",
+          "versions": [
+            "11.1.0"
+          ],
+          "fullPath": "/Applications/VMware Fusion.app"
+        },
+        {
+          "name": "VirtualBox.app",
+          "versions": [
+            "6.0.8"
+          ],
+          "fullPath": "/Applications/VirtualBox.app"
+        },
+        {
+          "name": "Visual Studio Code.app",
+          "versions": [
+            "1.44.2"
+          ],
+          "fullPath": "/Applications/Visual Studio Code.app"
+        },
+        {
+          "name": "Cisco Webex Meetings.app",
+          "versions": [
+            "39.8.3.902"
+          ],
+          "fullPath": "/Applications/Webex/Cisco Webex Meetings.app"
+        },
+        {
+          "name": "iMovie.app",
+          "versions": [
+            "10.1.14"
+          ],
+          "fullPath": "/Applications/iMovie.app"
+        },
+        {
+          "name": "iTerm.app",
+          "versions": [
+            "3.3.9"
+          ],
+          "fullPath": "/Applications/iTerm.app"
+        }
+      ],
+      "source": "/Applications"
+    },
+    {
+      "applications": [],
+      "source": "/Users/kallweit/Applications"
+    }
+  ]
+}
